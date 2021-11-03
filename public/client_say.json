@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dina Adams",
+    "img": "https://i.ibb.co/DLXhjw7/feedback-1.png",
+    "type": "Traveller",
+    "feed_back": "Meta Tourism Bandladesh is most wonder and Effient Traveller Agency. and I also like to meta tourism bd."
+  },
+  {
+    "id": 2,
+    "name": "Jack Kelis",
+    "img": "https://i.ibb.co/rMq7Kc0/feedback-3.png",
+    "type": "Traveller",
+    "feed_back": "Meta Tourism Bandladesh is most wonder and Effient Traveller Agency. and I also like to meta tourism bd."
+  },
+  {
+    "id": 3,
+    "name": "Steve Smith",
+    "img": "https://i.ibb.co/sbFTNDy/feedback-2.png",
+    "type": "Traveller",
+    "feed_back": "Meta Tourism Bandladesh is most wonder and Effient Traveller Agency. and I also like to meta tourism bd."
+  }
+]
