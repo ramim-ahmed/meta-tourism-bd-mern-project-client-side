@@ -19,8 +19,8 @@
 <ul>
   <li>User Authentication with Firebase</li>
   <li>Private Route</li>
-  <li>User can be book Tourism pacakage</li>
-  <li>User can be Delete her pakage </li>
+  <li>User can be book Tourism package</li>
+  <li>User can be Delete her package </li>
   <li>User can be update order Status</li>
   <li>User can be delete from manage all Bookings</li>
 </ul>
